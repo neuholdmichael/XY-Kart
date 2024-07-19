@@ -8,7 +8,7 @@ The XY-Kart was developed as a part of our third-year project at the Higher Tech
 
 ### Design and Construction
 
-Our project utilized two Bluetooth modules to establish a wireless communication link between the transmitter and receiver. My teammate took charge of the mechanical aspects, meticulously designing the car's body (carosserie) and chassis using CAD software. The design process involved multiple iterations to ensure optimal weight distribution, aerodynamics, and aesthetic appeal.
+Our project utilized two Bluetooth modules to establish a wireless communication link between the transmitter and receiver. My teammate took charge of the mechanical aspects, meticulously designing the car's body (carosserie) and chassis using CAD software (Solid Works). The design process involved multiple iterations to ensure optimal weight distribution, aerodynamics, and of course aesthetic appeal.
 
 ### Electronics and Programming
 
