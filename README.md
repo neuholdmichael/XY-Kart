@@ -24,7 +24,8 @@ The project was comprehensively documented, detailing each phase from conceptual
 
 Below are some images that capture various stages of the project:
 
-![Design Phase](path/to/design_image.jpg)
+#### SOON
+<!-- ![Design Phase](path/to/design_image.jpg)
 ![Assembly Phase](path/to/assembly_image.jpg)
-![Final Product](path/to/final_product_image.jpg)
+![Final Product](path/to/final_product_image.jpg) -->
 
