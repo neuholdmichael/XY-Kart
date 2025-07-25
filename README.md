@@ -41,5 +41,3 @@ We (Fischer Sebastian, Neuhold Michael) worked tirelessly to bring this project 
 The XY-Kart project was a significant learning experience, combining mechanical design, electronics, and programming into a cohesive and functional product. Our dedication and teamwork resulted in a project that not only met but exceeded our expectations, reflecting our hard work and passion for innovation.
 
 ---
-
-For more information, feel free to contact us at [me](mailto:michaelneuhold19@gmail.com).
